@@ -1,2 +1,2 @@
-var googleDocURL = 'https://docs.google.com/spreadsheets/d/1TVzCOX1Ja-y0NVcyAVfIfuOSKas67fM8ga_fOmdRsKU/edit#gid=0';
+var googleDocURL = 'https://docs.google.com/spreadsheets/d/1DpVfJgyiPCEATqtboG5cUqnDNK5N_LBPXG9JLt98qdk/edit#gid=0';
 var googleURL = 'https://www.google.com';
